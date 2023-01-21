@@ -852,7 +852,7 @@ if date.today().year == 2022 and date.today().month <= 11:
     app = StartPage()
 else:
     pass
-app.title("MyBestPlan")
+app.title("Extractor")
 app.geometry("800x700")
 app.mainloop()
 
